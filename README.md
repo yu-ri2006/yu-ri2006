@@ -1,4 +1,6 @@
-Hi there! I'm **Yuri**.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=200&text=HELLO+WORLD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%">
+  
+I'm **Yuri**.   
 I do a lot of different things in different places.  
   
 ## ❯ cat ~/about_me  
